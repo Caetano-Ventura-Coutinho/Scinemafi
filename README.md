@@ -8,3 +8,5 @@ Integrantes:
 - Isaque Sergio da Silva
 <br>
 Descrição: Projeto utilizando json e a API themoviedb para mostrar dados de filmes de ficção científica. Além do cenário nacional dos filmes desse gênero.
+<br>
+Tópicos da Wiki:
